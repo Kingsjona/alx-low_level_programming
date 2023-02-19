@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - im resilient
- *
- * Retun: 0
+ * main - Entry point
+ * This function prints last digit along
+ * Retun: 0 (success)
  */
 int main(void)
 {
