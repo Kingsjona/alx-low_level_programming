@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * This function prints last digit along
- * Retun: 0 (success)
+ * main - enjoying
+ *
+ * Return: 0
  */
 int main(void)
 {
@@ -29,5 +29,6 @@ int main(void)
 		printf("and is less than 6 and not 0");
 	}
 	printf("\n");
+
 	return (0);
 }
